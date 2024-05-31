@@ -10,8 +10,8 @@ TOKEN = "TOKEN DISCORD"
 
 # IDs dos canais e intervalo de tempo de espera
 canais = [
-    {"id": "880415511173804083", "nome": "Primeiro Chat", "url_enviar": "https://discord.com/api/v9/channels/IDCANAL/messages", "tempo_min": 60, "tempo_max": 180},
-    {"id": "896616891206995978", "nome": "Segundo Chat", "url_enviar": "https://discord.com/api/v9/channels/IDCANAL/messages", "tempo_min": 60, "tempo_max": 300}
+    {"id": "IDCANAL", "nome": "Primeiro Chat", "url_enviar": "https://discord.com/api/v9/channels/IDCANAL/messages", "tempo_min": 60, "tempo_max": 180},
+    {"id": "IDCANAL", "nome": "Segundo Chat", "url_enviar": "https://discord.com/api/v9/channels/IDCANAL/messages", "tempo_min": 60, "tempo_max": 300}
 ]
 
 emojis = ["😀", "😁", "😂", "🤣", "😃", "😄", "😅", "😆", "😉", "😊"]
